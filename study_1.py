@@ -1,1 +1,5 @@
-print((-3)**(0.5))
+name = 'Piti'
+sur = 'Csaran'
+age = 27
+
+print(name,sur,age)
